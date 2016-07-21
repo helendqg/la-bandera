@@ -1,0 +1,12 @@
+/* Escribe tu css aqui */
+p{
+	background-color: yellow;
+	height: 100px;
+	width: 200px;
+
+}
+.red{
+	background-color:red;
+	height: 100px;
+	width: 200px;
+}

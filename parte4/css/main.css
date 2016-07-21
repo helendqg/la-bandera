@@ -1,0 +1,16 @@
+/* Escribe tu css aqui */
+p{
+	background-color: yellow;
+	display:inline;
+	float:left;
+	margin:8px;
+	padding:8px;
+}
+.red{
+	background-color:red;
+	display:inline;
+	float:left;
+	margin:8px;
+	padding:8px;
+
+}
