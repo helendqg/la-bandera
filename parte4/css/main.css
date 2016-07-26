@@ -1,16 +1,21 @@
-/* Escribe tu css aqui */
-p{
-	background-color: yellow;
-	display:inline;
-	float:left;
-	margin:8px;
-	padding:8px;
+.caja {	
+	height: 100px;
+	width: 200px;
+	margin-bottom: 10px;
+	padding: 10px;
+	box-sizing: border-box;
+	display: inline;
+	margin-right: 15px;
 }
-.red{
-	background-color:red;
-	display:inline;
-	float:left;
-	margin:8px;
-	padding:8px;
 
+.red {
+	background: red;
+}
+
+.yellow {
+	background: yellow;
+}
+
+.inline-block {
+	display: inline-block;
 }

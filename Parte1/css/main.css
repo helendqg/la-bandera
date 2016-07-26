@@ -1,11 +1,15 @@
-/* Escribe tu css aqui */
-p{
-	background-color: yellow;
+.caja {	
 	height: 100px;
-	margin:-4px;
 }
-.red{
-	background-color:red;
-	height: 100px;
-	margin:-4px
+
+.red {
+	background: red;
+}
+
+.yellow {
+	background: yellow;
+}
+
+.inline-block {
+	display: inline-block;
 }
